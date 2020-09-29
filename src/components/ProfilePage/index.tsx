@@ -1,4 +1,5 @@
 import React from 'react';
+// import EditButton from '../Button';
 
 import 
 { Container, Banner, Avatar, ProfileData, LocationIcon, CakeIcon, Followage } 
