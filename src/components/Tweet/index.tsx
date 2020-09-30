@@ -1,6 +1,23 @@
 import React from 'react';
 
-// import { Container } from './styles';
+import 
+{ 
+Container,
+Retweeted, 
+RocketseatIcon, 
+Body, 
+Avatar, 
+Content, 
+Header, 
+Dot,
+Description, 
+ImageContent, 
+Icons, 
+Status, 
+CommentIcon, 
+RetweetIcon, 
+LikeIcon 
+} from './styles';
 
 const Tweet: React.FC = () => {
   return (
@@ -18,7 +35,7 @@ const Tweet: React.FC = () => {
                       <Dot />
                       <time>29 de setembro</time>
                   </Header>
-                  <Description>Apenas embarque no foguete</Description>
+                  <Description>Apenas embarque no foguete 🚀</Description>
                   <ImageContent />
                   <Icons>
                       <Status>
