@@ -26,7 +26,7 @@ const ProfilePage: React.FC = () => {
                   </li>
                   <li>
                       <CakeIcon />
-                      Naascido(a) em 17 de abril de 2002
+                      Nascido(a) em 17 de abril de 2002
                   </li>
               </ul>
               <Followage>
