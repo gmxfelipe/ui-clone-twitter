@@ -1,5 +1,5 @@
 
-<p align="center"> <img src="https://www.maistecnologia.com/wp-content/uploads/2016/01/twitter-logo-2.png" width="150" height="150"></p>
+<p align="center"> <img src="https://www.maistecnologia.com/wp-content/uploads/2016/01/twitter-logo-2.png" width="250" height="150"></p>
 <h4 align="center"> 
 	UI-Clone Twitter 🚀 
 </h4>
