@@ -37,4 +37,9 @@ Nessa single page foi recriada a interface do Twitter (UI-Clone), responsivo com
 
  - <a href="https://pt-br.reactjs.org/">⚛ ReactJS </a>
  - <a href="https://styled-components.com/">💅 Style-Components</a> 
- - <a href="https://www.typescriptlang.org/">🚀 TypeScript</a> 
+ - <a href="https://www.typescriptlang.org/">🚀 TypeScript</a>
+
+
+<h4 align="center">
+  <em>&lt;/&gt;</em> by <a href="https://github.com/gmxfelipe" target="_blank">Felipe Augusto Gomes</a>
+</h4>
