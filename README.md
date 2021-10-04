@@ -6,13 +6,6 @@
 
 ## Installation
 
-OS X & Linux:
-
-```sh
-- npm install --save
-- npm start
-```
-
 Windows:
 
 ```sh
